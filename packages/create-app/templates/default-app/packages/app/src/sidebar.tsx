@@ -12,8 +12,6 @@ import {
   SidebarDivider,
   SidebarSpace,
   SidebarUserSettings,
-  SidebarThemeToggle,
-  SidebarPinButton,
   DefaultProviderSettings,
 } from '@backstage/core';
 
@@ -32,8 +30,6 @@ export const AppSidebar = () => (
     <SidebarDivider />
     <SidebarSpace />
     <SidebarDivider />
-    <SidebarThemeToggle />
     <SidebarUserSettings providerSettings={<DefaultProviderSettings />} />
-    <SidebarPinButton />
   </Sidebar>
 );
