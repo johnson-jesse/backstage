@@ -13004,10 +13004,10 @@ jest@^26.0.1:
     import-local "^3.0.2"
     jest-cli "^26.4.2"
 
-jose@^1.27.1:
-  version "1.27.1"
-  resolved "https://registry.npmjs.org/jose/-/jose-1.27.1.tgz#a1de2ecb5b3ae1ae28f0d9d0cc536349ada27ec8"
-  integrity sha512-VyHM6IJPw0TTGqHVNlPWg16/ASDPAmcChcLqSb3WNBvwWFoWPeFqlmAUCm8/oIG1GjZwAlUDuRKFfycowarcVA==
+jose@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.npmjs.org/jose/-/jose-2.0.2.tgz#fb22385b80c658cc7a0cae05b7086c04c6be49f4"
+  integrity sha512-yD93lsiMA1go/qxSY/vXWBodmIZJIxeB7QhFi8z1yQ3KUwKENqI9UA8VCHlQ5h3x1zWuWZjoY87ByQzkQbIrQg==
   dependencies:
     "@panva/asn1.js" "^1.0.0"
 
